@@ -1,1 +1,4 @@
 /index.php / 301
+/germany-de/* /spinko-casino-de/:splat 301
+/spinko/* /spinko-casino-de/:splat 301
+/de-DE/* /spinko-casino-de/:splat 301
